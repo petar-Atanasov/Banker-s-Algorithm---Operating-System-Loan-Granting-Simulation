@@ -120,10 +120,10 @@ cd Banker-s-Algorithm---Operating-System-Loan-Granting-Simulation
 Compile the C++ source files:
 
 ```
-g++ *.cpp - o bankers
+g++ *.cpp - o coursework1
 ```
 
 Run the program:
 ```
-./bankers
+./coursework1
 ```
