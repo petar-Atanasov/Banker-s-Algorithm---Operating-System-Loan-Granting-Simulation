@@ -113,6 +113,8 @@ When a process makes a request, the system performs these checks:
 
 Clone the repository: 
 ```
+git clone https://github.com/petar-Atanasov/Banker-s-Algorithm---Operating-System-Loan-Granting-Simulation.git
+cd Banker-s-Algorithm---Operating-System-Loan-Granting-Simulation
 ```
 
 Compile the C++ source files:
